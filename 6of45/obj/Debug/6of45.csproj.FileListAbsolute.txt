@@ -1,0 +1,21 @@
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\bin\Debug\6of45.exe.config
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\bin\Debug\6of45.exe
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\bin\Debug\6of45.pdb
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\obj\Debug\6of45.csprojResolveAssemblyReference.cache
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\obj\Debug\_6of45.Form1.resources
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\obj\Debug\_6of45.Properties.Resources.resources
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\obj\Debug\6of45.csproj.GenerateResource.Cache
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\obj\Debug\6of45.exe
+c:\users\ученик\documents\visual studio 2015\Projects\6of45\6of45\obj\Debug\6of45.pdb
+C:\Users\pkoyu\Desktop\6of45\6of45\bin\Debug\6of45.exe.config
+C:\Users\pkoyu\Desktop\6of45\6of45\obj\Debug\6of45.exe
+C:\Users\pkoyu\Desktop\6of45\6of45\obj\Debug\6of45.pdb
+C:\Users\pkoyu\Desktop\6of45\6of45\obj\Debug\6of45.csprojResolveAssemblyReference.cache
+C:\Users\pkoyu\Desktop\6of45\6of45\obj\Debug\_6of45.Form1.resources
+C:\Users\pkoyu\Desktop\6of45\6of45\obj\Debug\_6of45.Properties.Resources.resources
+C:\Users\pkoyu\Desktop\6of45\6of45\obj\Debug\6of45.csproj.GenerateResource.Cache
+C:\Users\pkoyu\Desktop\6of45\6of45\bin\Debug\6of45.exe
+C:\Users\pkoyu\Desktop\6of45\6of45\bin\Debug\6of45.pdb
+C:\Users\Pavel\iCloudDrive\Си\WindowsForms\6of45\6of45\bin\Debug\6of45.exe.config
+C:\Users\Pavel\iCloudDrive\Си\WindowsForms\6of45\6of45\obj\Debug\6of45.exe
+C:\Users\Pavel\iCloudDrive\Си\WindowsForms\6of45\6of45\obj\Debug\6of45.pdb
